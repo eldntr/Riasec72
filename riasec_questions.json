@@ -1,0 +1,434 @@
+[
+  {
+    "id": "R1",
+    "pertanyaan": "Saya senang merakit dan memperbaiki komputer, laptop, atau perangkat elektronik",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Perbaikan & Pemeliharaan Teknologi"]
+  },
+  {
+    "id": "R2",
+    "pertanyaan": "Saya tertarik membangun dan mengatur jaringan komputer, server, atau sistem penyimpanan online (cloud)",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Logistik & Rantai Pasokan"]
+  },
+  {
+    "id": "R3",
+    "pertanyaan": "Saya suka memasang dan mengatur alat pintar (sensor) untuk memantau kondisi pertanian, energi, atau pabrik secara otomatis",
+    "skala": "Minat",
+    "target_kategori": ["Pertanian & Agribisnis", "Pertambangan & Energi", "Logistik & Rantai Pasokan"]
+  },
+  {
+    "id": "R4",
+    "pertanyaan": "Saya merasa puas ketika berhasil menggunakan software untuk desain bangunan atau teknologi konstruksi digital",
+    "skala": "Minat",
+    "target_kategori": ["Konstruksi & Bangunan", "Teknik & Teknologi"]
+  },
+  {
+    "id": "R5",
+    "pertanyaan": "Saya senang mengatur peralatan recording, streaming, atau equipment untuk membuat konten media digital",
+    "skala": "Minat",
+    "target_kategori": ["Media & Komunikasi", "Seni, Media & Komunikasi"]
+  },
+  {
+    "id": "R6",
+    "pertanyaan": "Saya tertarik memperbaiki dan meningkatkan kecepatan aplikasi, website, atau sistem digital",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Layanan Pelanggan"]
+  },
+  {
+    "id": "R7",
+    "pertanyaan": "Saya yakin bisa mengoperasikan dan merawat perangkat medis digital",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Kesehatan & Medis", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "R8",
+    "pertanyaan": "Saya yakin mampu mengatur sistem pelacakan dan pemantauan untuk transportasi atau pengiriman barang",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Transportasi & Logistik", "Logistik & Rantai Pasokan"]
+  },
+  {
+    "id": "R9",
+    "pertanyaan": "Saya percaya diri bisa mengatur sistem pembayaran digital atau infrastruktur teknologi finansial",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Keuangan & Teknologi Finansial", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "R10",
+    "pertanyaan": "Seberapa sering Anda mengatur dan merawat server, website, atau sistem komputer?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Edukasi & Pelatihan", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "R11",
+    "pertanyaan": "Seberapa sering Anda menggunakan atau mencoba chatbot, AI assistant, atau teknologi otomatis lainnya?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Layanan Pelanggan", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "R12",
+    "pertanyaan": "Seberapa sering Anda menggunakan aplikasi atau sistem digital untuk mengelola sesuatu (jadwal, keuangan, dll)?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Properti & Real Estat", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "I1",
+    "pertanyaan": "Saya senang menganalisis data keuangan untuk menemukan tren, penipuan, atau wawasan bisnis",
+    "skala": "Minat",
+    "target_kategori": ["Keuangan & Teknologi Finansial", "Akuntansi & Keuangan"]
+  },
+  {
+    "id": "I2",
+    "pertanyaan": "Saya tertarik meneliti dan menganalisis data pasien atau kesehatan untuk penelitian medis",
+    "skala": "Minat",
+    "target_kategori": ["Kesehatan & Medis", "Sains & Penelitian"]
+  },
+  {
+    "id": "I3",
+    "pertanyaan": "Saya suka menganalisis data pertanian atau agribisnis untuk meningkatkan hasil panen dan efisiensi",
+    "skala": "Minat",
+    "target_kategori": ["Pertanian & Agribisnis", "Sains & Penelitian"]
+  },
+  {
+    "id": "I4",
+    "pertanyaan": "Saya merasa tertantang untuk menganalisis kelemahan keamanan atau ancaman siber",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "semua kategori"]
+  },
+  {
+    "id": "I5",
+    "pertanyaan": "Saya senang meneliti perilaku konsumen dan tren pasar untuk mendukung keputusan bisnis",
+    "skala": "Minat",
+    "target_kategori": ["Pemasaran & Penjualan", "Pengembangan Bisnis & Penjualan"]
+  },
+  {
+    "id": "I6",
+    "pertanyaan": "Saya tertarik menganalisis data rantai pasok atau logistik untuk meningkatkan efisiensi operasional",
+    "skala": "Minat",
+    "target_kategori": ["Logistik & Rantai Pasokan", "Transportasi & Logistik"]
+  },
+  {
+    "id": "I7",
+    "pertanyaan": "Saya yakin bisa menganalisis performa konten media atau tingkat engagement untuk optimasi",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Media & Komunikasi", "Pemasaran & Penjualan"]
+  },
+  {
+    "id": "I8",
+    "pertanyaan": "Saya percaya diri dapat menganalisis data properti atau real estate untuk wawasan investasi",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Properti & Real Estat", "Keuangan & Teknologi Finansial"]
+  },
+  {
+    "id": "I9",
+    "pertanyaan": "Saya yakin mampu meneliti dan menganalisis data energi atau pertambangan untuk keberlanjutan",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Pertambangan & Energi", "Sains & Penelitian"]
+  },
+  {
+    "id": "I10",
+    "pertanyaan": "Seberapa sering Anda menganalisis data atau informasi untuk membuat kesimpulan?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Edukasi & Pelatihan", "Sains & Penelitian"]
+  },
+  {
+    "id": "I11",
+    "pertanyaan": "Seberapa sering Anda melakukan riset online atau mencari tahu tentang suatu topik secara mendalam?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Layanan Pelanggan", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "I12",
+    "pertanyaan": "Seberapa sering Anda menggunakan tools seperti Excel, Google Analytics, atau aplikasi analisis data lainnya?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Administrasi & Sumber Daya Manusia", "Manajemen & Kepemimpinan"]
+  },
+  {
+    "id": "A1",
+    "pertanyaan": "Saya senang mendesain tampilan aplikasi mobile, web, atau software yang mudah digunakan",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "A2",
+    "pertanyaan": "Saya tertarik membuat konten kreatif untuk media sosial dan kampanye digital",
+    "skala": "Minat",
+    "target_kategori": ["Pemasaran & Penjualan", "Media & Komunikasi"]
+  },
+  {
+    "id": "A3",
+    "pertanyaan": "Saya suka mendesain identitas visual dan brand untuk perusahaan teknologi finansial atau startup",
+    "skala": "Minat",
+    "target_kategori": ["Keuangan & Teknologi Finansial", "Pemasaran & Penjualan"]
+  },
+  {
+    "id": "A4",
+    "pertanyaan": "Saya merasa kreatif ketika membuat konten edukasi, infografis, atau materi pembelajaran online",
+    "skala": "Minat",
+    "target_kategori": ["Edukasi & Pelatihan", "Media & Komunikasi"]
+  },
+  {
+    "id": "A5",
+    "pertanyaan": "Saya senang mendesain tampilan data atau visualisasi data yang menarik dan mudah dipahami",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Sains & Penelitian"]
+  },
+  {
+    "id": "A6",
+    "pertanyaan": "Saya tertarik membuat video, motion graphics, atau multimedia untuk berbagai industri",
+    "skala": "Minat",
+    "target_kategori": ["Media & Komunikasi", "Seni, Media & Komunikasi"]
+  },
+  {
+    "id": "A7",
+    "pertanyaan": "Saya yakin bisa mendesain materi presentasi atau visual untuk pemasaran real estate",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Properti & Real Estat", "Pemasaran & Penjualan"]
+  },
+  {
+    "id": "A8",
+    "pertanyaan": "Saya percaya diri dapat mendesain tampilan aplikasi kesehatan atau interface medis yang user-friendly",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Kesehatan & Medis", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "A9",
+    "pertanyaan": "Saya yakin mampu membuat kampanye kreatif atau visual storytelling untuk produk pertanian",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Pertanian & Agribisnis", "Pemasaran & Penjualan"]
+  },
+  {
+    "id": "A10",
+    "pertanyaan": "Seberapa sering Anda membuat konten visual (poster, infografis, video, dll) baik untuk tugas maupun personal?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Media & Komunikasi"]
+  },
+  {
+    "id": "A11",
+    "pertanyaan": "Seberapa sering Anda menggunakan aplikasi desain seperti Canva, Photoshop, Figma, atau tools kreatif lainnya?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Layanan Pelanggan", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "A12",
+    "pertanyaan": "Seberapa sering Anda terlibat dalam membuat presentasi visual atau laporan yang menarik?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Manajemen & Kepemimpinan", "Akuntansi & Keuangan"]
+  },
+  {
+    "id": "S1",
+    "pertanyaan": "Saya senang membangun dan mengelola komunitas online atau grup media sosial",
+    "skala": "Minat",
+    "target_kategori": ["Media & Komunikasi", "Pemasaran & Penjualan"]
+  },
+  {
+    "id": "S2",
+    "pertanyaan": "Saya tertarik menjadi instruktur atau mentor untuk mengajarkan keterampilan digital kepada orang lain",
+    "skala": "Minat",
+    "target_kategori": ["Edukasi & Pelatihan", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "S3",
+    "pertanyaan": "Saya suka melakukan riset pengguna dan wawancara untuk memahami kebutuhan pelanggan",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Layanan Pelanggan"]
+  },
+  {
+    "id": "S4",
+    "pertanyaan": "Saya merasa puas ketika membantu pasien atau tenaga medis dengan teknologi kesehatan",
+    "skala": "Minat",
+    "target_kategori": ["Kesehatan & Medis", "Layanan Pelanggan"]
+  },
+  {
+    "id": "S5",
+    "pertanyaan": "Saya senang memfasilitasi pelatihan atau workshop untuk adopsi teknologi di berbagai industri",
+    "skala": "Minat",
+    "target_kategori": ["Edukasi & Pelatihan", "Manajemen & Kepemimpinan"]
+  },
+  {
+    "id": "S6",
+    "pertanyaan": "Saya tertarik membantu UMKM atau petani menggunakan teknologi digital untuk bisnis mereka",
+    "skala": "Minat",
+    "target_kategori": ["Pertanian & Agribisnis", "Pengembangan Bisnis & Penjualan"]
+  },
+  {
+    "id": "S7",
+    "pertanyaan": "Saya yakin bisa berkolaborasi dengan tim jarak jauh menggunakan tools kolaborasi digital",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Manajemen & Kepemimpinan", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "S8",
+    "pertanyaan": "Saya percaya diri dapat menggunakan teknologi untuk proyek dampak sosial",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Semua kategori", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "S9",
+    "pertanyaan": "Saya yakin mampu memberikan dukungan pelanggan atau bantuan teknis melalui saluran digital",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Layanan Pelanggan", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "S10",
+    "pertanyaan": "Seberapa sering Anda membantu orang lain menyelesaikan masalah teknologi atau mengajarkan cara menggunakan aplikasi/software?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Manajemen & Kepemimpinan", "Administrasi & Sumber Daya Manusia"]
+  },
+  {
+    "id": "S11",
+    "pertanyaan": "Seberapa sering Anda berpartisipasi atau mengorganisir acara online, webinar, atau diskusi virtual?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Media & Komunikasi", "Edukasi & Pelatihan"]
+  },
+  {
+    "id": "S12",
+    "pertanyaan": "Seberapa sering Anda berinteraksi dan membantu orang lain melalui platform digital (chat, forum, media sosial)?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Properti & Real Estat", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "E1",
+    "pertanyaan": "Saya tertarik membangun startup teknologi atau bisnis digital dari nol",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Keuangan & Teknologi Finansial"]
+  },
+  {
+    "id": "E2",
+    "pertanyaan": "Saya senang memimpin kampanye digital marketing dan strategi pertumbuhan",
+    "skala": "Minat",
+    "target_kategori": ["Pemasaran & Penjualan", "Media & Komunikasi"]
+  },
+  {
+    "id": "E3",
+    "pertanyaan": "Saya merasa termotivasi ketika memimpin proyek teknologi finansial atau inovasi keuangan",
+    "skala": "Minat",
+    "target_kategori": ["Keuangan & Teknologi Finansial", "Manajemen & Kepemimpinan"]
+  },
+  {
+    "id": "E4",
+    "pertanyaan": "Saya tertarik mengembangkan bisnis pembelajaran online atau teknologi edukasi",
+    "skala": "Minat",
+    "target_kategori": ["Edukasi & Pelatihan", "Pengembangan Bisnis & Penjualan"]
+  },
+  {
+    "id": "E5",
+    "pertanyaan": "Saya suka memimpin inisiatif transformasi digital di bidang kesehatan atau medis",
+    "skala": "Minat",
+    "target_kategori": ["Kesehatan & Medis", "Manajemen & Kepemimpinan"]
+  },
+  {
+    "id": "E6",
+    "pertanyaan": "Saya senang mengidentifikasi dan mengembangkan peluang bisnis di teknologi pertanian modern",
+    "skala": "Minat",
+    "target_kategori": ["Pertanian & Agribisnis", "Pengembangan Bisnis & Penjualan"]
+  },
+  {
+    "id": "E7",
+    "pertanyaan": "Saya yakin bisa memimpin tim penjualan atau pengembangan bisnis untuk produk teknologi",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Pengembangan Bisnis & Penjualan", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "E8",
+    "pertanyaan": "Saya percaya diri dapat mengembangkan strategi bisnis untuk teknologi properti atau inovasi real estate",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Properti & Real Estat", "Pengembangan Bisnis & Penjualan"]
+  },
+  {
+    "id": "E9",
+    "pertanyaan": "Saya yakin mampu memimpin tim untuk mengembangkan solusi digital di industri energi atau pertambangan",
+    "skala": "Kepercayaan Diri",
+    "target_kategori": ["Pertambangan & Energi", "Manajemen & Kepemimpinan"]
+  },
+  {
+    "id": "E10",
+    "pertanyaan": "Seberapa sering Anda terlibat dalam kegiatan kewirausahaan, bisnis, atau proyek yang Anda inisiasi sendiri?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Pengembangan Bisnis & Penjualan", "Manajemen & Kepemimpinan"]
+  },
+  {
+    "id": "E11",
+    "pertanyaan": "Seberapa sering Anda memimpin tim, proyek, atau mengambil inisiatif dalam organisasi/kelompok?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Manajemen & Kepemimpinan"]
+  },
+  {
+    "id": "E12",
+    "pertanyaan": "Seberapa sering Anda mencari atau menganalisis peluang bisnis, tren pasar, atau model bisnis baru?",
+    "skala": "Frekuensi",
+    "target_kategori": ["Semua kategori", "Keuangan & Teknologi Finansial", "Properti & Real Estat"]
+  },
+  {
+    "id": "C1",
+    "pertanyaan": "Saya senang membuat dokumentasi teknis dan prosedur kerja untuk sistem atau aplikasi",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "Administrasi & Sumber Daya Manusia"]
+  },
+  {
+    "id": "C2",
+    "pertanyaan": "Saya tertarik mengelola database keuangan dan memastikan akurasi data akuntansi",
+    "skala": "Minat",
+    "target_kategori": ["Akuntansi & Keuangan", "Keuangan & Teknologi Finansial"]
+  },
+  {
+    "id": "C3",
+    "pertanyaan": "Saya suka mengoptimalkan alur kerja dan proses bisnis menggunakan tools otomatisasi",
+    "skala": "Minat",
+    "target_kategori": ["Administrasi & Sumber Daya Manusia", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "C4",
+    "pertanyaan": "Saya merasa penting untuk memastikan kepatuhan dan persyaratan regulasi di teknologi finansial",
+    "skala": "Minat",
+    "target_kategori": ["Keuangan & Teknologi Finansial", "Administrasi & Sumber Daya Manusia"]
+  },
+  {
+    "id": "C5",
+    "pertanyaan": "Saya senang mengelola inventori dan data rantai pasok menggunakan sistem digital",
+    "skala": "Minat",
+    "target_kategori": ["Logistik & Rantai Pasokan", "Administrasi & Sumber Daya Manusia"]
+  },
+  {
+    "id": "C6",
+    "pertanyaan": "Saya tertarik memastikan kualitas dan testing untuk software atau aplikasi",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "C7",
+    "pertanyaan": "Saya suka mengelola aset digital, perpustakaan konten, atau sistem manajemen pengetahuan",
+    "skala": "Minat",
+    "target_kategori": ["Media & Komunikasi", "Administrasi & Sumber Daya Manusia"]
+  },
+  {
+    "id": "C8",
+    "pertanyaan": "Saya merasa nyaman mengelola hubungan vendor dan pengadaan teknologi",
+    "skala": "Minat",
+    "target_kategori": ["Administrasi & Sumber Daya Manusia", "Manajemen & Kepemimpinan"]
+  },
+  {
+    "id": "C9",
+    "pertanyaan": "Saya senang memastikan privasi data dan kepatuhan keamanan di berbagai sistem digital",
+    "skala": "Minat",
+    "target_kategori": ["Teknologi Informasi & Perangkat Lunak", "semua kategori"]
+  },
+  {
+    "id": "C10",
+    "pertanyaan": "Saya tertarik mengelola timeline proyek, alokasi sumber daya, dan pelaporan",
+    "skala": "Minat",
+    "target_kategori": ["Manajemen & Kepemimpinan", "Administrasi & Sumber Daya Manusia"]
+  },
+  {
+    "id": "C11",
+    "pertanyaan": "Saya suka mengatur dan merawat sistem SDM digital atau platform manajemen karyawan",
+    "skala": "Minat",
+    "target_kategori": ["Administrasi & Sumber Daya Manusia", "Teknologi Informasi & Perangkat Lunak"]
+  },
+  {
+    "id": "C12",
+    "pertanyaan": "Saya merasa puas ketika bisa mengoptimalkan efisiensi biaya dan manajemen budget untuk operasi digital",
+    "skala": "Minat",
+    "target_kategori": ["Akuntansi & Keuangan", "Manajemen & Kepemimpinan"]
+  }
+]
