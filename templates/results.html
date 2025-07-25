@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Hasil RIASEC</title>
+</head>
+<body>
+    <h1>Hasil RIASEC Anda</h1>
+    <h2>Profil: {{ riasec_profile }}</h2>
+    <h3>Skor Normalisasi</h3>
+    <ul>
+        {% for cat, score in sorted_normalized_scores %}
+            <li>{{ cat }}: {{ score }}</li>
+        {% endfor %}
+    </ul>
+    <h3>Skor Mentah</h3>
+    <ul>
+        {% for cat, score in raw_scores.items() %}
+            <li>{{ cat }}: {{ score }}</li>
+        {% endfor %}
+    </ul>
+    <a href="{{ url_for('restart') }}">Ulangi Tes</a>
+</body>
+</html>

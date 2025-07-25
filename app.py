@@ -6,7 +6,7 @@ app = Flask(__name__)
 app.secret_key = 'ThunderTalkToMe3Goreng122' # Ganti dengan kunci rahasia yang kuat untuk produksi
 
 # --- Fungsi-fungsi Logika RIASEC (dari skrip Python sebelumnya) ---
-def load_questions(filepath=r'D:\Kuliah\Wingman_Rextra\RIASEC72\riasec_questions.json'):
+def load_questions(filepath=r'riasec_questions.json'):
     """
     Memuat pertanyaan dari file JSON.
     """
